@@ -11,3 +11,7 @@ For crypto-currencies: https://api.binance.com/api/v3/ticker/price (documentatio
 Used technologies:
 - Vue.js;
 - SCSS;
+
+To run the project: 
+- run the command 'npm install';
+- run the command 'npm run serve';
